@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "productName": "MSI GF63 Thin Core i7",
+      "productDesc": "Gaming Laptop",
+      "manufacturer": "Intel",
+      "quantity": "1",
+      "price": "66000",
+      "id": 8,
+      "count": 110,
+      "userId": 2,
+      "rating": 4.3
+    },
+    {
+      "productName": "HP 15s Core i3 10th Gen",
+      "productDesc": "Gaming Laptops",
+      "manufacturer": "Hp",
+      "quantity": "1",
+      "price": "68000",
+      "id": 12,
+      "count": 41,
+      "userId": 7
+    },
+    {
+      "productName": "Dell Vostro Core i3",
+      "productDesc": "Gaming Laptop",
+      "manufacturer": "Dell",
+      "quantity": "1",
+      "price": "37000",
+      "id": 15,
+      "count": 16,
+      "userId": 7,
+      "rating": 3
+    },
+    {
+      "productName": "Motorola One Power",
+      "productDesc": "Android SmartPhone",
+      "manufacturer": "Motorola",
+      "quantity": "10",
+      "price": "1010101",
+      "id": 18,
+      "count": 6,
+      "userId": 7
+    },
+    {
+      "productName": "Bajaj Fan",
+      "productDesc": "Nice cool fan",
+      "manufacturer": "Bajaj",
+      "quantity": "11231",
+      "price": "121111",
+      "id": 19,
+      "count": 13,
+      "userId": 7,
+      "rating": 5
+    },
+    {
+      "productName": "Shurikens",
+      "productDesc": "Ninja tools | Weapon",
+      "manufacturer": "Konaha tools",
+      "quantity": "12903",
+      "price": "2093",
+      "count": 0,
+      "userId": 13,
+      "rating": 1,
+      "id": 20
+    },
+    {
+      "productName": "kunai",
+      "productDesc": "Ninja tools",
+      "manufacturer": "self",
+      "quantity": "21",
+      "price": "121",
+      "count": 0,
+      "userId": 15,
+      "rating": 3,
+      "id": 21
+    },
+    {
+      "productName": "Omron Weighing Machine",
+      "productDesc": "Digital Weighing Machine with lbs and kgs units",
+      "manufacturer": "Omron",
+      "quantity": "12",
+      "price": "23212",
+      "count": 0,
+      "userId": 7,
+      "rating": 0,
+      "id": 22
+    },
+    {
+      "productName": "Nokia 5700",
+      "productDesc": "Good Mobile",
+      "manufacturer": "Nokia",
+      "quantity": "2",
+      "price": "12000",
+      "id": 23,
+      "count": 0,
+      "userId": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "ava@ava.com",
+      "username": "avayer",
+      "password": "ava123",
+      "firstName": "ava",
+      "lastName": "ava",
+      "location": "Hyderabad",
+      "mobileNumber": "9191919191",
+      "cart": []
+    },
+    {
+      "id": 2,
+      "email": "cold@ava.com",
+      "username": "coldflamer",
+      "password": "cold123",
+      "firstName": "cold",
+      "lastName": "flamer",
+      "location": "Secunderabad",
+      "mobileNumber": "7171717171",
+      "cart": []
+    },
+    {
+      "firstName": "someone",
+      "lastName": "someone",
+      "email": "someone@someone.com",
+      "username": "someone",
+      "password": "someone",
+      "location": "someone",
+      "mobileNumber": "1231231231",
+      "id": 3,
+      "cart": []
+    },
+    {
+      "firstName": "ewfre",
+      "lastName": "wefre",
+      "email": "ava@ava.com",
+      "username": "ewfe",
+      "password": "wfge",
+      "location": "fgr",
+      "mobileNumber": "wfregr",
+      "id": 4,
+      "cart": []
+    },
+    {
+      "firstName": "cypher",
+      "lastName": "MindFreak",
+      "email": "cypher@valorant.com",
+      "username": "cypher",
+      "password": "cypher",
+      "location": "India",
+      "mobileNumber": "919191919",
+      "id": 5,
+      "cart": [
+        10,
+        11,
+        19
+      ]
+    },
+    {
+      "firstName": "weeiwi",
+      "lastName": "wifjjeio",
+      "email": "avayer1@ava.com",
+      "username": "weifjwie",
+      "password": "woifjwi",
+      "location": "woifjwi",
+      "mobileNumber": "weoifjwi",
+      "id": 6,
+      "cart": []
+    },
+    {
+      "firstName": "new",
+      "lastName": "new",
+      "email": "new@new.com",
+      "username": "new",
+      "password": "new",
+      "location": "new",
+      "mobileNumber": "new",
+      "id": 7,
+      "cart": [
+        10,
+        18
+      ]
+    },
+    {
+      "firstName": "Raman",
+      "lastName": "Kumar",
+      "email": "rjha4647@gmail.com",
+      "username": "rk123",
+      "password": "rk123",
+      "location": "Bhopal",
+      "mobileNumber": "9090989776",
+      "id": 8,
+      "cart": []
+    },
+    {
+      "firstName": "Sai Anurag",
+      "lastName": "Mahankali",
+      "email": "anurag@gmail.com",
+      "username": "msa11",
+      "password": "anurag",
+      "location": "Hyderabad",
+      "mobileNumber": "9999900000",
+      "cart": [],
+      "id": 9
+    },
+    {
+      "firstName": "Sai Anurag",
+      "lastName": "Mahankali",
+      "email": "anuragmahankali1998@gmail.com",
+      "username": "msa06",
+      "password": "anurag",
+      "location": "Hydearabad",
+      "mobileNumber": "9100910091",
+      "cart": [],
+      "id": 10
+    },
+    {
+      "firstName": "new",
+      "lastName": "new",
+      "email": "new1@new.com",
+      "username": "new",
+      "password": "new",
+      "location": "new",
+      "mobileNumber": "101010101",
+      "cart": [],
+      "id": 11
+    },
+    {
+      "firstName": "coldflamer",
+      "lastName": "player",
+      "email": "coldflamer@gmail.com",
+      "username": "coldflamer",
+      "password": "coldflamer",
+      "location": "India",
+      "mobileNumber": "919191919",
+      "cart": [],
+      "id": 12
+    },
+    {
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "email": "naruto@konaha.com",
+      "username": "naruto",
+      "password": "naruto",
+      "location": "Konaha",
+      "mobileNumber": "1111111",
+      "cart": [],
+      "id": 13
+    },
+    {
+      "firstName": "Sasuke",
+      "lastName": "Uchiha",
+      "email": "sasuke@konaha.com",
+      "username": "sasuke",
+      "password": "sasuke",
+      "location": "Konaha",
+      "mobileNumber": "22222",
+      "cart": [],
+      "id": 14
+    },
+    {
+      "firstName": "Kakashi",
+      "lastName": "Hatake",
+      "email": "kakashi@konaha.com",
+      "username": "kakashi",
+      "password": "kakashi",
+      "location": "konaha",
+      "mobileNumber": "33333333",
+      "cart": [],
+      "id": 15
+    }
+  ]
+}
